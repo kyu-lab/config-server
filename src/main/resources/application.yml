@@ -7,4 +7,4 @@ spring:
     config:
       server:
         native:
-          search-locations: file:/etc/application-configs, file:/etc/application-configs/service-config
+          search-locations: file:/etc/application-configs,file:/etc/application-configs/service-config
